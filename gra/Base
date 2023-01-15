@@ -1,0 +1,8 @@
+block Window
+	block size
+		int x 1300
+		int y 734
+		end
+	string name "HelloWorld"
+	end
+end

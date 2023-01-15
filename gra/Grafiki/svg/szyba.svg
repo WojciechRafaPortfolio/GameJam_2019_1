@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg837"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="szyba.svg">
+  <defs
+     id="defs831" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="501.79185"
+     inkscape:cy="786.28685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata834">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.22466835"
+       d="m 10.961307,52.663673 h 79.375006 l 0.11935,79.444357 H 10.841947 Z"
+       id="rect20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Pawel\Dropbox\Gamejam2019\Grafiki\png\szyba.png"
+       inkscape:export-xdpi="22.700165"
+       inkscape:export-ydpi="22.700165" />
+    <g
+       id="g943"
+       transform="matrix(0,-1,-0.72346498,0,207.19937,252.51405)"
+       inkscape:export-filename="C:\Users\Pawel\Dropbox\Gamejam2019\Grafiki\png\zbita4.png"
+       inkscape:export-xdpi="22.700165"
+       inkscape:export-ydpi="22.700165">
+      <path
+         inkscape:connector-curvature="0"
+         id="path923"
+         d="M 170.70637,18.148098 H 156.7248 l 1.26917,6.709153 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path921"
+         d="m 201.48227,37.811497 -0.0212,-19.663399 h -11.69282 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path919"
+         d="m 201.52774,79.583107 -0.032,-29.271598 -20.06699,17.6351 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path917"
+         d="m 201.56237,111.86693 -0.014,-13.089133 -6.51278,10.746123 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path915"
+         d="m 171.51149,128.32845 h 30.06896 l -21.66379,-5.95364 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path913"
+         d="m 140.4183,128.32845 h 14.45752 l -11.2448,-11.2453 c 0,0 -1.74289,6.08903 -3.21272,11.2453 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path911"
+         d="m 122.01477,84.206597 -0.0481,44.121853 14.8606,-24.85223 -3.02359,-10.583333 6.8032,-7.55974 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path909"
+         d="m 122.0556,46.370664 -0.0253,23.296253 7.2378,-16.083772 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path907"
+         d="m 146.50113,18.148098 h -24.41504 l -0.0202,18.818489 20.05304,-3.794083 z"
+         style="fill:#00ffff;fill-opacity:0.32338335;stroke-width:0.26458332" />
+    </g>
+  </g>
+</svg>

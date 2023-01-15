@@ -1,0 +1,46 @@
+block buildingPos
+	float x 30
+	float y 80
+	end
+
+block roomsCount
+	int x 5
+	int y 3
+	end
+
+block spaceBetweenRooms
+	float x 10
+	float y 10
+	end
+
+block windowShift
+	float x 49
+	float y 23
+	end
+
+block windowSize
+	float x 70
+	float y 70
+	end
+
+
+block backgroundColor
+	int r 100
+	int g 100
+	int b 100
+	end
+
+block backgroundFrameColor
+	int r 50
+	int g 50
+	int b 50
+	end
+
+float backgroundFrameSize 10
+
+float fireSpeed	0.2
+float smokeSpeed 0.2
+float fireDumping 0.2 # gaszenie ognia przez dym
+float startFire 10
+float fireKilling 0.5  # gaszenie ognia przez strazaka
+end

@@ -1,0 +1,15 @@
+string humanAnimation "sciezka/nazwa"
+string inside "/home/tomasz/Dropbox/Gamejam2019/Grafiki/png/pokoj"
+string wall "/home/tomasz/Dropbox/Gamejam2019/Grafiki/png/sciana"
+string fire "/home/tomasz/Dropbox/Gamejam2019/animacja/ogien.txt"
+string smoke "/home/tomasz/Dropbox/Gamejam2019/animacja/smoke.txt"
+string glass "/home/tomasz/Dropbox/Gamejam2019/Grafiki/png/szyba"
+string brokenGlass "/home/tomasz/Dropbox/Gamejam2019/Grafiki/png/zbita"
+
+block count
+	int wall 7
+	int brokenGlass 4
+	int inside 6
+	end
+
+end
